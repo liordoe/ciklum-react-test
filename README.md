@@ -30,6 +30,7 @@ Runs the app in the development mode.
 
 ## List of dependecies
 
+```
   "axios": "^0.16.2",
   "babel-plugin-transform-react-jsx": "^6.24.1",
   "babel-preset-env": "^1.6.0",
@@ -56,3 +57,4 @@ Runs the app in the development mode.
   "react-router": "^4.2.0",
   "react-router-dom": "^4.2.2",
   "react-scripts": "1.0.13"
+```
