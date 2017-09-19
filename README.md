@@ -1,3 +1,5 @@
+### `nodejs` version >= 7.6 required
+
 ## Folder Structure
 ```
 public/
