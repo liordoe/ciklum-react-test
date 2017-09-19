@@ -55,6 +55,5 @@ Runs the app in the development mode.
   "react": "^15.6.1",
   "react-dom": "^15.6.1",
   "react-router": "^4.2.0",
-  "react-router-dom": "^4.2.2",
-  "react-scripts": "1.0.13"
+  "react-router-dom": "^4.2.2"
 ```
