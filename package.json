@@ -30,7 +30,6 @@
     "react-router-dom": "^4.2.2"
   },
   "scripts": {
-    "start": "grunt serve -f",
-    "test": "react-scripts test --env=jsdom"
+    "start": "grunt serve -f"
   }
 }
