@@ -31,5 +31,8 @@
   },
   "scripts": {
     "start": "grunt serve -f"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0"
   }
 }
